@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "http://swap-alpha.spherium.finance/favicon.png",
+  "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png",
   "keywords": [
     "SPH",
     "default"
@@ -1019,7 +1019,7 @@
       "symbol": "SPH",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Token1",
@@ -1027,7 +1027,7 @@
       "symbol": "TOK01",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Token2",
@@ -1035,7 +1035,7 @@
       "symbol": "TOK02",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Token3",
@@ -1043,7 +1043,7 @@
       "symbol": "TOK03",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Token4",
@@ -1051,7 +1051,7 @@
       "symbol": "TOK04",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Token5",
@@ -1059,7 +1059,7 @@
       "symbol": "TOK05",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Token6",
@@ -1067,7 +1067,7 @@
       "symbol": "TOK06",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Token7",
@@ -1075,7 +1075,7 @@
       "symbol": "TOK07",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Token8",
@@ -1083,7 +1083,7 @@
       "symbol": "TOK08",
       "decimals": 18,
       "chainId": 3,
-      "logoURI": "http://swap-alpha.spherium.finance/favicon.png"
+      "logoURI": "http://62.75.138.68/static/media/spherium%20logo.a81102b6.png"
     },
     {
       "name": "Wrapped Ether",
